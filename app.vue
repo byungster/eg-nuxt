@@ -1,7 +1,7 @@
 <template>
   <div>
     <NuxtLayout>
-      <span>Hie</span>
+      <span>Hi 세팔</span>
     </NuxtLayout>
   </div>
 </template>
