@@ -27,7 +27,6 @@
         <div class="bottom-right">
           주말 10:00 ~ 16:00
         </div>
-
       </div>
     </div>
     <div class="btn-sign">
@@ -39,7 +38,8 @@
 <style scoped>
 .header {
   display: flex;
-  margin: 0 20px;
+  margin: 0 50px;
+  padding-bottom: 20px;
 }
 
 .logo {
